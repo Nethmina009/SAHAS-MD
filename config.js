@@ -18,8 +18,8 @@ module.exports = {
   OWNER_NUMBER: process.env.OWNER_NUMBER || "94706369728",
   //========================================- OTHER - CONFIGS -=====================================================================
   AUTO_VOICE: process.env.AUTO_VOICE || "false",
-  AUTO_REPLY: process.env.AUTO_REPLY || "true",
-  AUTO_STICKER: process.env.AUTO_STICKER || "true",
+  AUTO_REPLY: process.env.AUTO_REPLY || "false",
+  AUTO_STICKER: process.env.AUTO_STICKER || "false",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
   AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
   AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
